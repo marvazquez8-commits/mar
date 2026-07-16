@@ -1,0 +1,66 @@
+/* Fondo de la página */
+body{
+    background-color: #F4F8FB;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2C3E50;
+    text-align: center;
+    margin: 30px;
+}
+
+/* Título principal */
+.titulo{
+    font-family: Georgia, "Times New Roman", serif;
+    color: white;
+    background-color: #1E3A5F;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+/* Subtítulos */
+h2{
+    font-family: Verdana, Geneva, sans-serif;
+    color: #1E3A5F;
+}
+
+/* Párrafo */
+p{
+    font-size: 18px;
+    line-height: 1.6;
+    color: #4A5568;
+}
+
+/* Lista ordenada */
+ol{
+    color: #2563EB;
+}
+
+/* Lista desordenada */
+ul{
+    color: #0F766E;
+}
+
+/* Enlaces */
+a{
+    color: #C58B00;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color: #1E3A5F;
+    text-decoration: underline;
+}
+
+/* Imágenes */
+img{
+    border-radius: 12px;
+    border: 3px solid #1E3A5F;
+    margin: 15px;
+}
+
+/* Video */
+iframe{
+    border: 3px solid #C58B00;
+    border-radius: 12px;
+    margin-top: 20px;
+}
